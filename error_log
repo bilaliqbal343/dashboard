@@ -1,0 +1,12 @@
+[08-Jan-2020 18:02:02 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::shared_rides() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 137
+[08-Jan-2020 18:02:22 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::shared_rides() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 137
+[08-Jan-2020 18:21:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::insert_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 242
+[08-Jan-2020 18:23:26 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::insert_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 242
+[13-Jan-2020 17:40:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::update_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 274
+[13-Jan-2020 17:40:42 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::update_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 274
+[13-Jan-2020 17:40:47 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::update_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 274
+[13-Jan-2020 17:41:12 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::update_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 274
+[13-Jan-2020 17:41:28 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::update_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 274
+[13-Jan-2020 17:41:59 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::update_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 274
+[13-Jan-2020 17:42:25 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::update_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 274
+[13-Jan-2020 17:42:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\adminController::update_user() in /home/alloswbu/public_html/alloadmin/app/Http/Controllers/adminController.php on line 274
